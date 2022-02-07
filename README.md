@@ -1,6 +1,5 @@
-# ExperienceOrchestra
-**3DUI IEEE VR Competition
-**
+**3DUI IEEE VR Competition**
+
 For Sprint1, our goal was to set up the basics of the game, including introductory menu selections, proximity detection of objects, importing assets of instruments, and creating enough of the environment to allow for player movement. As we began Sprint1, we made some modifications from the initial design based on guardians
 
 Link to Sprint 1 Video: https://drive.google.com/file/d/1YCXhLuu0KMJMVktfUprmjvxdr6qQ0ob5/view?usp=sharing
