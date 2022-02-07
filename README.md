@@ -25,7 +25,7 @@ Moving Forward:
 
 For the upcoming Sprints, we plan on extending what we implemented for the string instruments to other categories of instruments as well as to deep dive into the sound component-- implementing audio, manipulating pitch, and controlling volume.
 
-ExperienceOrchestra Sprint2
+Sprint2
 For Sprint2, our goal was to create a basic prototype of our experience. We focused on the mechanics of the string instruments and the music they produced, as well as locomotion within our environment. We also aimed to create the entire orchestra hall, including chairs and lighting. Additionally, we constructed menu selections that load in different selections of instruments based on the users' choices along with a pause menu to allow users to stop and restart their gameplay.
 
 Link to Sprint 2 Video: https://drive.google.com/file/d/1JQLMXjmiCaGyvmgEjBgnN4URuMIOlL68/view?usp=sharing
@@ -48,7 +48,7 @@ After we all completed our individual tasks, we met together and worked on combi
 
 Moving Forward: Moving forward for Sprint 3, we wish to continuing adding in more instruments into our experience beyond those of the strings. We aim to flesh out our menu selections and decrease load times. We also will finalized our multiplayer experience and musical selection.
 
-ExperienceOrchestra Sprint3
+Sprint3
 For Sprint3, our goal was to complete implementing the fundamental functionalities required for each component of our project. For the first component, "Explore Instruments," we made every instrument playable; this included designing and implementing each instrument in a way that would make sound when the user holds the instrument properly. For the second component, "Play in an Ensemble," we decided to take the route of implementing a preset ensemble configuration-- a string quartet. We made this decision because a string quartet epitomizes one of the most commonly found ensemble types and we were able to implement the ensemble in a way that four users would be able to play and create music collectively. Furthermore, we made improvements to the symphony hall that serves as the background scene.
 
 Link to Sprint 3 videos: https://drive.google.com/file/d/1j-Lx7E4NS9GaHGTzP62PxJhbmXmyIX-K/view?usp=sharing https://drive.google.com/file/d/1zlqzf0HqLNXaPqvjBM0VzTbDyMWu8mq7/view?usp=sharing
@@ -79,7 +79,7 @@ Group Work: After dividing up the tasks at the end of Sprint 2/ beginning of Spr
 
 Moving Forward: As the main goal for sprint 3 was to implement our Minimum Viable Product, for Sprint 4 we plan to push further beyond the highest priority features and shift our focus to building a better user experience with improved UI. As we are approaching the finish line before we enter the testing and debugging stage, sprint 4 will focus on improving and solidifying the user-facing interactions and components.
 
-ExperienceOrchestra Sprint4
+Sprint4
 For Sprint 4, our primary objective was to expand upon what we had accomplished for sprint 3 and push to achieve more than just the MVP; since we had the fundamental features down for sprint 3 for the backend, we focused on making sure the interface would create the most optimal user experience. This included modifying components of the environment (symphony hall) such as lighting, integrating individual aspects of the project all into one, and finetuning all instruments to make sure they are playable the way they are intended to be played. Throughout the 4 sprints we were able to stay on track with what we wanted to accomplish for each sprint and we are excited to see how the project idea came to fruition.
 
 Link to Sprint 4 videos: https://drive.google.com/file/d/1-G28x9nq2jDYb03upAjSH_2tJmxcqh_4/view?usp=sharing https://drive.google.com/file/d/1PiXltOa-M-2JLrZDvVq5dVc6kUlgOiHu/view?usp=sharing
