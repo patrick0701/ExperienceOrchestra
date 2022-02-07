@@ -108,5 +108,5 @@ Patrick: Used a font asset creator to import font assets to experiment on the fo
 
 Group Work: Since we shifted our focus from making sure the instruments were playable and the multiplayer feature was working, we focused on having discussions about what design choices we were making from a user-centric perspective. We came together and ensured that every design decision was intentional and justified. As a collective, we reached an agreed upon design solution that would allow users to explore every orchestral instrument as initially envisioned.
 
-Experience Orchestra Playtesting
+Playtesting
 During playtesting, we mostly focused on fixing bugs in the project. In addition to bugfixes, we made the instructions more clear for the user, added a snap back return when the instruments are released, changed the mixers in ensemble mode for each instrument to have its own mixer, and fixed some issues with the songs.
