@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cello
+* source:	https://sketchfab.com/3d-models/cello-d5e6b8be218e4441a44eaa1aa72c27fe
+* author:	Vaclav Marena (https://sketchfab.com/vaclavmarena)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cello" (https://sketchfab.com/3d-models/cello-d5e6b8be218e4441a44eaa1aa72c27fe) by Vaclav Marena (https://sketchfab.com/vaclavmarena) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d9896c1fa75f44404b1219a4411ce930
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cotton Butter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70fab3d7a896a478392466df2afd1313, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
